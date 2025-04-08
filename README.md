@@ -1,4 +1,6 @@
 # Mustafa Bakir  
+![nyuad-logo](https://github.com/user-attachments/assets/e14e21a8-8892-414a-9b1f-fef75d899354)
+
 **Date:** 4/7/2025  
 **Institution:** New York University Abu Dhabi  
 **Email:** MB9457@nyu.edu  
@@ -24,6 +26,8 @@ The system consists of two primary components: an Arduino microcontroller handli
 - A button on analog pin A0 for mode selection  
 - A potentiometer on analog pin A1 for volume control in audio control mode  
 - Serial connection to the host computer for data transfer  
+![Arduino drawio](https://github.com/user-attachments/assets/5e6ca65a-ff78-4678-9047-3d0eed78c279)
+
 
 **The software layer includes:**
 - Audio capture and buffer management via PyAudio  
